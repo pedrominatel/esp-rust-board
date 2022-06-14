@@ -22,7 +22,7 @@
 "R14, ","1","1kR 1%","C11702","","Resistor_SMD:R_0402_1005Metric","Resistor, small US symbol"
 "SW1, SW2, ","2","SW_Push","C116501","","Button_Switch_SMD:SW_SPST_PTS810","Push button switch, generic, two pins"
 "U1, ","1","SHTC3","C194656","","Rust_Board:SON100P200X200X80-5N",""
-"U2, ","1","ICM-42670-P","","","Rust_Board:IC_ICM-42670-P",""
+"U2, ","1","LIS3DH","C15134","","Package_LGA:LGA-16_3x3mm_P0.5mm_LayoutBorder3x5y","3-Axis Accelerometer, 2/4/8/16g range, I2C/SPI interface, LGA-16"
 "U3, ","1","ESP32-C3-MINI-1","C2838502","","Espressif:ESP32-C3-MINI-1",""
 "U5, ","1","SY8088","C479072","","Package_TO_SOT_SMD:SOT-23-5",""
 "U6, ","1","MCP73831T-2ACI/OT","C424093","","Package_TO_SOT_SMD:SOT-23-5","Single cell, Li-Ion/Li-Po charge management controller, 4.20V, Tri-State Status Output, in SOT23-5 package"
